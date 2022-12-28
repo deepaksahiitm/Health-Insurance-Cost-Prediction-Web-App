@@ -5,3 +5,5 @@ Medical Health Insurance Cost Prediction |TechStack Used: Python, Pandas, Matplo
 •	Saved the model using Joblib, developed the GUI using Tkinter, build and deployed the web application using Streamlit that predicts the insurance cost by entering the features value in web application.
 
 ![image](https://user-images.githubusercontent.com/91398845/207703224-2d95afc5-b18b-4323-8e39-1d1dab8e95b9.png)
+
+Live Project: https://deepaksahiitm-health-insurance-c-insurancecost-streamlit-otvyss.streamlit.app/
